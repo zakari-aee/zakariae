@@ -12,7 +12,7 @@ I am committed to lifelong learning, continuously updating my skills to stay cur
 ## 💻 Skills
 - **Languages**: HTML, CSS, JavaScript, Python , c 
 - **Frameworks**: React, Node.js
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: Git, GitHub, VS Code ,Vim , Shell
 
 ---
 
