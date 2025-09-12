@@ -51,8 +51,8 @@
 ## 🏆 42 Badge
 
 <p align="center">
-  <a href="https://badge.mediaplus.ma/greenbinary/aybenoma">
-    <img src="https://badge.mediaplus.ma/greenbinary/aybenoma" alt="42 Badge" />
+  <a href="https://badge.mediaplus.ma/greenbinary/zallioua">
+    <img src="https://badge.mediaplus.ma/greenbinary/zallioua" alt="42 Badge" />
   </a>
 </p>
 
